@@ -27,7 +27,7 @@ import requests
 import random
 import os
 
-# 变量 ty_username（15605297035）,ty_password（Sshwu@1984*）
+# 变量 ty_username（）,ty_password（）
 ty_username = os.getenv("ty_username").split('&')
 ty_password = os.getenv("ty_password").split('&')
 
